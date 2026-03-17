@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Matheus Barbosa! 👋
 
-<!--
-**MatheusBarbosaEng/MatheusBarbosaEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia da Computação (USF)** com base técnica em **Eletroeletrônica pelo SENAI**. Desenvolvedor em evolução com foco na integração entre hardware e software.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Estudos Atuais:
+*   **Sistemas Embarcados:** Desenvolvimento em C/C++ aplicado a Arduino e circuitos eletrônicos.
+*   **Desenvolvimento Web:** Lógica de programação e interfaces interativas com JavaScript.
+*   **Backend:** Algoritmos e automação de processos utilizando Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Objetivos:
+*   Atuar em estágios voltados para engenharia de software e sistemas embarcados.
+*   Desenvolver soluções que conectem hardware e software de forma eficiente.
+*   Construir uma carreira sólida em inovação tecnológica e sistemas escaláveis.
+
+## 📫 Contato:
+*   [Meu LinkedIn](https://www.linkedin.com/in/matheus-barbosa-65489038b/)
+
+---
